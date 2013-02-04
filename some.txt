@@ -1,3 +1,4 @@
 hello world
 Im adding this on anothera
 added on another2 branch
+I've checked git and this is after editing
